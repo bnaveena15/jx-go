@@ -67,3 +67,5 @@ watch:
 
 skaffold-run: build
 	skaffold run -p dev
+VERSION := 2.0.0
+VERSION := 2.0.0
